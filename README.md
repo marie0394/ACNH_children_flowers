@@ -1,5 +1,5 @@
 # ACNH_children_flowers
-Shows the children that can be generated from two parent flowers.
+Shows the children that can be generated from two parent flowers. Download the zipped _Download_ file and run the Main.exe file.
 
 The yellow box can be used to find the genes of the parents you want to mix. To find a gene:
   1. Click on the flower you are going to mix in the green column.
